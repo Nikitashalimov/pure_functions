@@ -1,4 +1,4 @@
-constpath = require('path'); // Node.js модуль для разрешения путей файлов
+const path = require('path');
 module.exports = {
 	entry: './src/index.js',
 	output: {
