@@ -1,4 +1,4 @@
-const Unit = require('../index.js');
+const Unit = require('../index');
 
 test('проверяем уровень здоровья война', () => {
   const warrior = new Unit('воин', '95');
